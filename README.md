@@ -1,2 +1,1 @@
-# netflix_clone
-my first clone project
+https://payushi1510.github.io/netflix_clone/
